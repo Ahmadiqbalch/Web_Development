@@ -1,0 +1,28 @@
+body{
+    background-image: url(./grey\ background.jpg);
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+marquee{
+    font-size: large;
+    font-weight: bold;
+    color: green;
+    margin-bottom: 30px;
+}
+#t1{
+    background-color: rgb(132, 132, 255);
+    margin-left: 499px;
+    font-weight: bold;
+}
+#t2{
+    background-color: antiquewhite;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#t3{
+    background-color: burlywood;
+    font-weight: bold;
+}
